@@ -1,0 +1,6 @@
+C:\Users\Ozgur Can\Desktop\nesne\odev-1-OzgurAltinok\Odev_1\obj\Debug\Odev_1.csprojAssemblyReference.cache
+C:\Users\Ozgur Can\Desktop\nesne\odev-1-OzgurAltinok\Odev_1\obj\Debug\Odev_1.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur Can\Desktop\nesne\odev-1-OzgurAltinok\Odev_1\bin\Debug\Odev_1.exe
+C:\Users\Ozgur Can\Desktop\nesne\odev-1-OzgurAltinok\Odev_1\bin\Debug\Odev_1.pdb
+C:\Users\Ozgur Can\Desktop\nesne\odev-1-OzgurAltinok\Odev_1\obj\Debug\Odev_1.exe
+C:\Users\Ozgur Can\Desktop\nesne\odev-1-OzgurAltinok\Odev_1\obj\Debug\Odev_1.pdb

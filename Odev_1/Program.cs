@@ -1,18 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Windows.Forms;
 
-namespace Odev_1
+namespace War_simulation
 {
-    class Program
+    public class Program
     {
+
         static void Main(string[] args)
         {
-         /*
-          Örnek olması açısında iskelet kod hazır olarak verilmiştir. İmplementasyonunuz bunun üzerinden gerçekleştiriniz.
-         */
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
 
+            //Form Uygulamasidir.
+            //Program cizim yaptigi icin Form1 class'i icinden basliyor.
+            //Uygulamada sadece askerler hareket ediyor. AtesEt() yetileri yoktur.
+            //Ozgur Can Altinok
         }
     }
 }
